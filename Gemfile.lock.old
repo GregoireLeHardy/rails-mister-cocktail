@@ -51,7 +51,7 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.4)
     byebug (11.0.1)
-    cloudinary (1.13.1)
+    cloudinary (1.12.0)
       aws_cf_signer
       rest-client
     coffee-rails (4.2.2)
@@ -80,7 +80,7 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.8.1)
+    i18n (1.7.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.9.1)
       activesupport (>= 4.2.0)
@@ -108,7 +108,7 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.7)
       mini_portile2 (~> 2.4.0)
-    pg (1.2.2)
+    pg (1.2.1)
     puma (3.12.2)
     rack (2.0.8)
     rack-proxy (0.6.5)
